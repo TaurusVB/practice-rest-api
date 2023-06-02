@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-rest-api/static/css/main.7acaea2f.css",
+    "main.js": "/practice-rest-api/static/js/main.07d3183d.js",
+    "index.html": "/practice-rest-api/index.html",
+    "main.7acaea2f.css.map": "/practice-rest-api/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/practice-rest-api/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
